@@ -25,55 +25,83 @@ Attacking an app can fall under [web or app pentest](awesome-pentest-learning-re
 9. [Enterprise Security Architect](https://amzn.to/4hUxlZw)
 
 ## Videos
-1. [Youtube video on semgrep’s taint mode](https://www.youtube.com/watch?v=6MxMhFPkZlU)
+1. [Youtube video on semgrep's taint mode](https://www.youtube.com/watch?v=6MxMhFPkZlU)
+2. [OWASP Global AppSec conference talks](https://www.youtube.com/@owasp)
+3. [LocoMoco Security Conf - AppSec deep dives](https://www.youtube.com/@locomocosec)
+4. [Clint Gibler (tl;dr sec) talks on scaling AppSec](https://www.youtube.com/results?search_query=clint+gibler+appsec)
+5. [LiveOverflow - deep web/binary exploitation](https://www.youtube.com/@LiveOverflow)
+6. [PwnFunction - web vuln concepts](https://www.youtube.com/@PwnFunction)
+7. [IppSec - HackTheBox walkthroughs](https://www.youtube.com/@ippsec)
 
 ## Free/Paid Courses
-1. [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+1. [PortSwigger Web Security Academy (free)](https://portswigger.net/web-security)
+2. [OWASP Juice Shop Companion Guide (free)](https://pwning.owasp-juice.shop/)
+3. [SANS SEC540: Cloud Security and DevSecOps Automation](https://www.sans.org/cyber-security-courses/cloud-security-devsecops-automation/)
+4. [SANS SEC522: Defending Web Applications Security Essentials](https://www.sans.org/cyber-security-courses/defending-web-applications-security-essentials/)
+5. [SANS SEC540 / SEC542 / SEC642](https://www.sans.org/cyber-security-courses/?focus-area=offensive-operations)
+6. [Practical DevSecOps - Certified Application Security Practitioner](https://www.practical-devsecops.com/)
+7. [AppSec Engineer by We Hack Purple / Tanya Janca](https://community.wehackpurple.com/)
+8. [Pentester Academy - AppSec paths](https://www.pentesteracademy.com/)
+9. [Coursera - Software Security (University of Maryland)](https://www.coursera.org/learn/software-security)
 
 ## Free/Paid Labs
-1. https://application.security/ Try its free gamified challenges on API, Web, Cloud, front-end.
-2. Secure Code Warrior
-3. HackEDU
-4. OWASP Juice Shop
-5. Pentester Lab 
-6. Github Security Lab 
-7. Google Gruyere
-8. Django.nv
-9. DVWA
+1. [application.security](https://application.security/) - free gamified challenges on API, Web, Cloud, front-end.
+2. [Secure Code Warrior](https://www.securecodewarrior.com/) - Commercial developer training.
+3. [Security Journey (formerly HackEDU)](https://www.securityjourney.com/)
+4. [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) - Most popular intentionally vulnerable web app.
+5. [PentesterLab](https://pentesterlab.com/) - Hands-on exercises.
+6. [GitHub Security Lab CTF](https://securitylab.github.com/ctf/)
+7. [Google Gruyere](https://google-gruyere.appspot.com/)
+8. [Django.nv](https://github.com/nVisium/django.nv)
+9. [DVWA - Damn Vulnerable Web App](https://github.com/digininja/DVWA)
+10. [WebGoat](https://owasp.org/www-project-webgoat/) - OWASP's legacy but still useful Java learning app.
+11. [OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/)
+12. [HackMyVM](https://hackmyvm.eu/) - Free boot2root style VMs.
+13. [Root-Me](https://www.root-me.org/) - Large CTF-style challenges repository.
+14. [Vulnerable Web Applications Directory by OWASP](https://owasp.org/www-project-vulnerable-web-applications-directory/)
 
 ## Security tools
 It will include tools for SAST, SCA, OAST, Threat Modeling, Secure Code Review, secrets management etc
 ### SAST
 **Open source**
-1. Sonarqube
-2. Bandit
-3. Brakeman
-4. FindSecBugs
-5. Semgrep
-6. CodeQL
+1. [SonarQube](https://www.sonarsource.com/products/sonarqube/)
+2. [Bandit](https://github.com/PyCQA/bandit) (Python)
+3. [Brakeman](https://brakemanscanner.org/) (Ruby on Rails)
+4. [FindSecBugs / SpotBugs](https://find-sec-bugs.github.io/) (Java)
+5. [Semgrep](https://semgrep.dev/) (multi-language, customizable rules)
+6. [CodeQL](https://codeql.github.com/) (semantic, free for OSS)
+7. [gosec](https://github.com/securego/gosec) (Go)
+8. [njsscan](https://github.com/ajinabraham/njsscan) (Node.js)
 
 **Paid**
-7. Checkmarx
-8. Veracode
-9. Snyk
-10. Coverity
+9. [Checkmarx One](https://checkmarx.com/)
+10. [Veracode](https://www.veracode.com/)
+11. [Snyk Code](https://snyk.io/product/snyk-code/)
+12. [Coverity (Black Duck)](https://www.blackduck.com/)
+13. [Fortify by OpenText](https://www.opentext.com/products/fortify-static-code-analyzer)
 
 ### SCA
-1. OWASP Dependency Check
-2. Retire.js
-3. CycloneDX
-4. Snyk
-5. CheckMarx CxSCA
-6. JFrog XRay
+1. [OWASP Dependency-Check](https://owasp.org/www-project-dependency-check/)
+2. [OWASP Dependency-Track](https://dependencytrack.org/) - SBOM-centric continuous monitoring.
+3. [Retire.js](https://retirejs.github.io/retire.js/)
+4. [CycloneDX CLI](https://github.com/CycloneDX/cyclonedx-cli) - SBOM generation/manipulation.
+5. [Syft](https://github.com/anchore/syft) - SBOM generator.
+6. [Trivy](https://github.com/aquasecurity/trivy) - Scans dependencies across many ecosystems.
+7. [Snyk Open Source](https://snyk.io/product/open-source-security-management/)
+8. [Checkmarx SCA](https://checkmarx.com/cxsca-open-source-scanning/)
+9. [JFrog Xray](https://jfrog.com/xray/)
+10. [Socket.dev](https://socket.dev/) - Supply-chain / malicious package detection for npm, PyPI.
 
 ### Secrets
-1. GitLeaks
-2. TruffleHog
-3. Talisman
-4. Shhgit
-5. Repo-supervisor
-6. Hashicorp Vault
-7. Cyberark Conjur
+1. [gitleaks](https://github.com/gitleaks/gitleaks)
+2. [TruffleHog](https://github.com/trufflesecurity/trufflehog)
+3. [Talisman](https://github.com/thoughtworks/talisman)
+4. [detect-secrets (Yelp)](https://github.com/Yelp/detect-secrets)
+5. [git-secrets (AWS)](https://github.com/awslabs/git-secrets)
+6. [Repo-supervisor](https://github.com/auth0/repo-supervisor) - (maintenance mode)
+7. [HashiCorp Vault](https://www.vaultproject.io/)
+8. [CyberArk Conjur](https://www.conjur.org/)
+9. [GitGuardian](https://www.gitguardian.com/) - commercial scanning.
 
 ### Threat Modeling
 1. [OWASP ThreatDragon](https://www.threatdragon.com/#/)
@@ -107,8 +135,15 @@ It will include tools for SAST, SCA, OAST, Threat Modeling, Secure Code Review, 
 11. [Taint Analysis or Taint Checking](https://en.wikipedia.org/wiki/Taint_checking)
 12. [log4j vulnerability walkthrough](https://www.apiscene.io/api-security-identity/log4j-2-vulnerabilities-a-walkthrough/) 
 13. [Zero day exploitation of confluence](https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/)
-14. [Cryptography Module in Python](https://www.dlitz.net/software/pycrypto/doc/)
+14. [Python cryptography library (pyca/cryptography) - use this instead of the deprecated PyCrypto](https://cryptography.io/)
 15. [Secure Coding with Python](https://devopedia.org/secure-coding-with-python)
-16. [Security concerns in modules and function - github owasp](https://github.com/ebranca/owasp-pysec/wiki/Security-Concerns-in-modules-and-functions)
+16. [OWASP Python Security Project (archived but still referenced)](https://github.com/ebranca/owasp-pysec)
 17. [Hacking Python Application](https://medium.com/swlh/hacking-python-applications-5d4cd541b3f1)
-18. [Secure Design Principles](https://cydrill.com/cyber-security/secure-design-principles/ )
+18. [Secure Design Principles](https://cydrill.com/cyber-security/secure-design-principles/)
+19. [OWASP ASVS (Application Security Verification Standard)](https://owasp.org/www-project-application-security-verification-standard/)
+20. [OWASP SAMM (Software Assurance Maturity Model)](https://owaspsamm.org/)
+21. [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
+22. [OWASP Proactive Controls](https://owasp.org/www-project-proactive-controls/)
+23. [tl;dr sec newsletter by Clint Gibler](https://tldrsec.com/)
+24. [We Hack Purple AppSec Podcast](https://community.wehackpurple.com/)
+25. [CWE Top 25 Most Dangerous Software Weaknesses (latest)](https://cwe.mitre.org/top25/)

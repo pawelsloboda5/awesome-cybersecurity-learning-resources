@@ -26,6 +26,19 @@ We would keep adding relevant learning references when we find them informative 
 8. [Cloud security learning resources](awesome-cloud-security-learning-resources.md)
 9. [GRC learning resources](awesome-grc-learning-resources.md)
 10. [Mobile Application Security resources](awesome-mobile-security-learning-resources.md)
+11. [Container Security learning resources](awesome-container-security-learning-resources.md)
+12. [SOC / Blue Team learning resources](awesome-soc-blue-team-learning-resources.md)
+13. [DFIR (Digital Forensics & Incident Response) learning resources](awesome-dfir-learning-resources.md)
+14. [Threat Intelligence (CTI) learning resources](awesome-threat-intel-learning-resources.md)
+15. [Malware Analysis & Reverse Engineering learning resources](awesome-malware-reversing-learning-resources.md)
+16. [Red Team & Active Directory learning resources](awesome-red-team-ad-learning-resources.md)
+17. [OSINT learning resources](awesome-osint-learning-resources.md)
+18. [IoT & Hardware Security learning resources](awesome-iot-hardware-security-learning-resources.md)
+19. [ICS / OT Security learning resources](awesome-ics-ot-security-learning-resources.md)
+20. [Cryptography learning resources](awesome-cryptography-learning-resources.md)
+21. [IAM & Identity Security learning resources](awesome-iam-identity-security-learning-resources.md)
+22. [Blockchain / Smart Contract Security learning resources](awesome-blockchain-security-learning-resources.md)
+23. [Binary Exploitation & Low-Level Security learning resources](awesome-binary-exploitation-learning-resources.md)
 
 ## ToC
 1. [Books](#must-read---security-books)
@@ -55,8 +68,11 @@ We would keep adding relevant learning references when we find them informative 
 
 ## Free/Paid Cybersecurity Courses
 1. [Foundation of Cybersecurity by Google](https://www.coursera.org/learn/foundations-of-cybersecurity)
-2. [Google Cybersecurity](https://www.coursera.org/professional-certificates/google-cybersecurity)
+2. [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
 3. [Certified in Cybersecurity Specialization by ISC2](https://www.coursera.org/specializations/certified-in-cybersecurity)
+4. [ISC2 CC - Free entry-level cybersecurity certification](https://www.isc2.org/certifications/cc) - Exam voucher is free under the "One Million Certified in Cybersecurity" program in some regions.
+5. [Microsoft SC-900 Fundamentals](https://learn.microsoft.com/en-us/certifications/security-compliance-and-identity-fundamentals/)
+6. [Cisco Networking Academy - free cybersecurity courses](https://www.netacad.com/cybersecurity)
 
 ## Free/Paid Cybersecurity Labs
 1. [hackthebox](https://referral.hackthebox.com/mzAlUIY) - Recommended
@@ -68,6 +84,8 @@ We would keep adding relevant learning references when we find them informative 
 7. [Lets Defend for Blue Teamers](https://www.letsdefend.io/)
 8. [CTF Time](https://ctftime.org/) 
 9. [Hacker101 by HackerOne](https://www.hacker101.com/)
+10. [CyberDefenders](https://cyberdefenders.org/) - Blue-team challenges, DFIR.
+11. [RangeForce](https://www.rangeforce.com/) - Blue-team labs.
 
 ## Security Certifications
 **We are keeping the certifications which are popular amongst security community and what HR asks.**
@@ -195,10 +213,17 @@ Instead of keeping it various locations in this repo, I kept it here for quick l
 12. [Zero Day issues newsletter](https://www.zetter-zeroday.com/)
 13. [Krebs on Security](https://krebsonsecurity.com/subscribe/)
 14. [Security Magazine](https://www.securitymagazine.com/)
+15. [tl;dr sec by Clint Gibler](https://tldrsec.com/) - Weekly AppSec/DevSecOps digest (recommended).
+16. [Risky Business podcast + newsletter](https://risky.biz/)
+17. [OpenSSF Feed / Open Source Security Digest](https://openssf.org/blog/)
 
 ## Security: Blogs/Articles
 1. [Reddit: How to get started in Cybersecurity](https://www.reddit.com/r/cybersecurity/comments/ti6a1n/how_to_get_started_into_cybersecurity/)
 2. [Quora: How do I start career in cybersecurity](https://www.quora.com/How-do-I-start-a-cybersecurity-career-from-scratch-with-zero-knowledge)
+3. [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework)
+4. [MITRE ATT&CK knowledge base](https://attack.mitre.org/)
+5. [OWASP Top 10 (Web, API, LLM, Mobile, K8s) - central OWASP site](https://owasp.org/projects/)
+6. [CISA Known Exploited Vulnerabilities (KEV) catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 
 ## Security Events/Conferences
 You can try to present, attend and meet like-minded people in these security chapters or conferences.
