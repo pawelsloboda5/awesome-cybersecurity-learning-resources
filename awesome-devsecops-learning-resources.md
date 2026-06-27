@@ -126,7 +126,7 @@ See also the dedicated [Container Security learning resources](awesome-container
 8. [Kubesec](https://kubesec.io/): Scans YAML for risky settings.
 9. [Hadolint](https://github.com/hadolint/hadolint) and [Dockle](https://github.com/goodwithtech/dockle): Dockerfile/image linters.
 10. [Falco (CNCF)](https://falco.org/): Runtime threat detection.
-11. [Prisma Cloud (formerly Twistlock)](https://www.paloaltonetworks.com/prisma/cloud): Commercial CWPP/CNAPP.
+11. [Cortex Cloud by Palo Alto Networks](https://www.paloaltonetworks.com/cortex/cortex-cloud) (formerly Prisma Cloud / Twistlock, rebranded Feb 2025): Commercial CWPP/CNAPP.
 
 ### Infrastructure as Code (IaC) Security Tools
 1. [Checkov by Bridgecrew/Prisma](https://www.checkov.io/): Terraform, CloudFormation, Kubernetes, Dockerfile, ARM, Bicep, Serverless.

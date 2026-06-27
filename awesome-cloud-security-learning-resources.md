@@ -113,7 +113,7 @@ Cloud security spans IAM, network security, workload security, data security, po
 21. [kube-hunter](https://github.com/aquasecurity/kube-hunter), [kube-bench](https://github.com/aquasecurity/kube-bench), [Trivy](https://github.com/aquasecurity/trivy), [Falco](https://falco.org/) - see also the Container Security resources page.
 
 ### Commercial CNAPP / CSPM
-22. Wiz, Orca Security, Prisma Cloud (Palo Alto), CrowdStrike Falcon Cloud Security, Lacework (Fortinet), Microsoft Defender for Cloud, AWS Security Hub + GuardDuty + Inspector, Sysdig Secure, Aqua Security, Snyk Cloud, Tenable Cloud Security.
+22. Wiz (acquired by Google, $32B, 2025), Orca Security, Cortex Cloud by Palo Alto Networks (formerly Prisma Cloud, rebranded Feb 2025), CrowdStrike Falcon Cloud Security, Lacework (Fortinet), Microsoft Defender for Cloud, AWS Security Hub + GuardDuty + Inspector, Sysdig Secure, Aqua Security, Snyk Cloud, Tenable Cloud Security.
 
 ## Certifications
 1. [AWS Certified Security - Specialty (SCS-C02)](https://aws.amazon.com/certification/certified-security-specialty/)

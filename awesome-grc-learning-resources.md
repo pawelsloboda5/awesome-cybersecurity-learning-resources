@@ -108,3 +108,4 @@ GRC is less hands-on than pentesting, but you can still practice.
 15. [MITRE ATT&CK to CSF 2.0 mapping](https://attack.mitre.org/resources/enterprise-introduction/)
 16. [Cloud Security Alliance - Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
 17. [EU GDPR official text](https://gdpr-info.eu/) and [India DPDP Act 2023](https://www.meity.gov.in/writereaddata/files/Digital%20Personal%20Data%20Protection%20Act%202023.pdf)
+18. [CISA Cybersecurity Performance Goals 2.0 (CPG 2.0, Dec 2025)](https://www.cisa.gov/cybersecurity-performance-goals-2-0-cpg-2-0) - Updated goals aligned to CSF 2.0 Govern function; covers IT, OT, and IoT in one unified structure.

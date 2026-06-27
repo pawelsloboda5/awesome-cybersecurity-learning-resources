@@ -21,7 +21,7 @@ DFIR combines digital forensics (host, memory, network, cloud, mobile) with inci
 7. [Intelligence-Driven Incident Response, 2nd Ed by Scott Roberts, Rebekah Brown (O'Reilly, 2023)](https://www.oreilly.com/library/view/intelligence-driven-incident-response/9781098120672/)
 8. [Learning Malware Analysis by Monnappa K A (Packt)](https://www.packtpub.com/product/learning-malware-analysis/9781788392501) - Strong IR + malware crossover.
 9. [Blue Team Handbook: Incident Response Edition by Don Murdoch](https://www.amazon.com/Blue-Team-Handbook-condensed-Responder/dp/1500734756)
-10. [NIST SP 800-61 Rev 2 - Computer Security Incident Handling Guide (free)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
+10. [NIST SP 800-61 Rev 3 - Incident Response Recommendations for Cybersecurity Risk Management: A CSF 2.0 Community Profile (free, Apr 2025)](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r3.pdf) - First update since 2012; restructured to align with CSF 2.0.
 11. [NIST SP 800-86 - Guide to Integrating Forensic Techniques (free)](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-86.pdf)
 
 ## Videos
@@ -149,3 +149,4 @@ DFIR combines digital forensics (host, memory, network, cloud, mobile) with inci
 15. [Awesome-Incident-Response GitHub](https://github.com/meirwah/awesome-incident-response)
 16. [Awesome Forensics GitHub](https://github.com/cugu/awesome-forensics)
 17. [IR Playbooks by CISA, Microsoft, AWS, Google](https://www.cisa.gov/resources-tools/resources/federal-government-cybersecurity-incident-and-vulnerability-response-playbooks)
+18. [NIST SP 800-61r3 (Apr 2025)](https://csrc.nist.gov/pubs/sp/800/61/r3/final) - Updated IR guide aligned to CSF 2.0; supersedes r2 (2012).

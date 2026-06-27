@@ -72,25 +72,30 @@ AI/ML security is a fast-moving domain. It spans classical ML security (adversar
 12. [EU AI Act - full text and summaries](https://artificialintelligenceact.eu/)
 13. [ISO/IEC 42001:2023 - AI Management System](https://www.iso.org/standard/81230.html)
 
+### Agentic AI security
+14. [OWASP Top 10 for Agentic Applications (2026)](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/) - The definitive risk list for autonomous AI agents.
+15. [OWASP Agentic Security Initiative resources](https://genai.owasp.org/2025/12/09/owasp-genai-security-project-releases-top-10-risks-and-mitigations-for-agentic-ai-security/)
+16. [MCP Security overview and tools landscape (Adversa AI, Apr 2026)](https://adversa.ai/blog/top-mcp-security-resources-april-2026/)
+
 ### Prompt injection / jailbreaks / RAG
-14. [Prompt injection explained - Simon Willison archive](https://simonwillison.net/tags/promptinjection/)
-15. [Prompt injection jailbreaking of LLM apps](https://ogre51.medium.com/security-of-llm-apps-prompt-injection-jailbreaking-fb9fc5c883a8)
-16. [Riding the RAG Trail by Lasso Security](https://www.lasso.security/blog/riding-the-rag-trail-access-permissions-and-context)
-17. [Security Risks with RAG Architectures - IronCore Labs](https://ironcorelabs.com/security-risks-rag/)
-18. [Mitigating Security Risks in RAG LLM Apps - CSA](https://cloudsecurityalliance.org/blog/2023/11/22/mitigating-security-risks-in-retrieval-augmented-generation-rag-llm-applications)
-19. [RAG: The Essential Guide - Nightfall](https://www.nightfall.ai/ai-security-101/retrieval-augmented-generation-rag)
-20. [Why RAG is revolutionising GenAI - Immuta](https://www.immuta.com/guides/data-security-101/retrieval-augmented-generation-rag/)
-21. [PortSwigger - Web LLM attacks](https://portswigger.net/web-security/llm-attacks)
-22. [LLM Security portal (curated)](https://llmsecurity.net/)
+17. [Prompt injection explained - Simon Willison archive](https://simonwillison.net/tags/promptinjection/)
+18. [Prompt injection jailbreaking of LLM apps](https://ogre51.medium.com/security-of-llm-apps-prompt-injection-jailbreaking-fb9fc5c883a8)
+19. [Riding the RAG Trail by Lasso Security](https://www.lasso.security/blog/riding-the-rag-trail-access-permissions-and-context)
+20. [Security Risks with RAG Architectures - IronCore Labs](https://ironcorelabs.com/security-risks-rag/)
+21. [Mitigating Security Risks in RAG LLM Apps - CSA](https://cloudsecurityalliance.org/blog/2023/11/22/mitigating-security-risks-in-retrieval-augmented-generation-rag-llm-applications)
+22. [RAG: The Essential Guide - Nightfall](https://www.nightfall.ai/ai-security-101/retrieval-augmented-generation-rag)
+23. [Why RAG is revolutionising GenAI - Immuta](https://www.immuta.com/guides/data-security-101/retrieval-augmented-generation-rag/)
+24. [PortSwigger - Web LLM attacks](https://portswigger.net/web-security/llm-attacks)
+25. [LLM Security portal (curated)](https://llmsecurity.net/)
 
 ### Operational / defensive
-23. [Security Incident Response using LLMs - Mercari engineering](https://engineering.mercari.com/en/blog/entry/20241206-streamlining-security-incident-response-with-automation-and-large-language-models/)
-24. [Safeguarding LLMs with LLM-Guard](https://medium.com/@dataenthusiast.io/language-models-at-risk-safeguarding-ai-with-llm-guard-11a3e7923af5)
-25. [LLM Guard Playground](https://huggingface.co/spaces/protectai/llm-guard-playground)
-26. [Threat Modeling AI/ML assessments - plot4.ai](https://plot4.ai/assessments/quick-check)
-27. [What are foundation models - DataCamp](https://www.datacamp.com/blog/what-are-foundation-models)
-28. [Anthropic - Responsible Scaling Policy and red teaming posts](https://www.anthropic.com/research)
-29. [OpenAI - System Cards and safety evaluations](https://openai.com/safety)
+26. [Security Incident Response using LLMs - Mercari engineering](https://engineering.mercari.com/en/blog/entry/20241206-streamlining-security-incident-response-with-automation-and-large-language-models/)
+27. [Safeguarding LLMs with LLM-Guard](https://medium.com/@dataenthusiast.io/language-models-at-risk-safeguarding-ai-with-llm-guard-11a3e7923af5)
+28. [LLM Guard Playground](https://huggingface.co/spaces/protectai/llm-guard-playground)
+29. [Threat Modeling AI/ML assessments - plot4.ai](https://plot4.ai/assessments/quick-check)
+30. [What are foundation models - DataCamp](https://www.datacamp.com/blog/what-are-foundation-models)
+31. [Anthropic - Responsible Scaling Policy and red teaming posts](https://www.anthropic.com/research)
+32. [OpenAI - System Cards and safety evaluations](https://openai.com/safety)
 
 ## AI/ML Security Tools
 ### Guardrails / prompt defenses
@@ -138,3 +143,5 @@ AI/ML security is a fast-moving domain. It spans classical ML security (adversar
 7. [EU AI Act](https://artificialintelligenceact.eu/)
 8. [CSA AI Controls Matrix](https://cloudsecurityalliance.org/research/working-groups/ai-technology-risk-management)
 9. [Databricks AI Security Framework (DASF)](https://www.databricks.com/resources/whitepaper/databricks-ai-security-framework-dasf)
+10. [OWASP Top 10 for Agentic Applications (2026)](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/) - Released Dec 2025; covers agent goal hijacking, tool misuse, privilege abuse, memory poisoning, insecure inter-agent comms, and rogue agents.
+11. [NIST CSF 2.0 Cyber AI Profile (NISTIR 8596, draft)](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdf) - Guidance on securing AI systems using the NIST CSF 2.0 framework.

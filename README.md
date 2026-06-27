@@ -92,6 +92,7 @@ We would keep adding relevant learning references when we find them informative 
 1. CC from ISC2
 2. CompTIA Security+
 3. CISSP from ISC2
+4. CompTIA SecurityX (formerly CASP+, rebranded Dec 2024)
 
 <details>
 <summary> <b>1. ISC<sup>2</sup></b> </summary>
@@ -125,7 +126,7 @@ We would keep adding relevant learning references when we find them informative 
 1. Security+
 2. CySA+
 3. Pentest+
-4. CASP+
+4. SecurityX (formerly CASP+, rebranded Dec 2024)
 </details>
 
 <details>

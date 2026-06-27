@@ -118,7 +118,7 @@ Identity and Access Management (IAM) has moved from "AD + LDAP" to a sprawling e
 6. [IETF OAuth Working Group drafts](https://datatracker.ietf.org/wg/oauth/documents/)
 7. [RFC 6749 (OAuth 2.0), RFC 8628 (Device Flow), RFC 8705 (mTLS), RFC 9068 (JWT Access Tokens), RFC 8725 (JWT BCP), RFC 9449 (DPoP)](https://datatracker.ietf.org/)
 8. [OAuth 2.1 draft](https://oauth.net/2.1/)
-9. [NIST SP 800-63-4 (Digital Identity Guidelines, 2024 revision)](https://pages.nist.gov/800-63-4/)
+9. [NIST SP 800-63-4 (Digital Identity Guidelines, final July 2025)](https://pages.nist.gov/800-63-4/) - Syncable passkeys now qualify as AAL2; significant passkey/FIDO2 guidance update.
 10. [OWASP Authentication / Session / Access Control Cheat Sheets](https://cheatsheetseries.owasp.org/)
 11. [Microsoft Identity blog](https://techcommunity.microsoft.com/category/microsoft-entra/blog)
 12. [Auth0 blog](https://auth0.com/blog/)
@@ -128,3 +128,4 @@ Identity and Access Management (IAM) has moved from "AD + LDAP" to a sprawling e
 16. [Identity Theft Resource Center breach reports](https://www.idtheftcenter.org/publications/)
 17. [Awesome IAM GitHub](https://github.com/kdeldycke/awesome-iam)
 18. [The Passkey Index by Mozilla](https://www.passkeyindex.com/)
+19. [OWASP Non-Human Identities Top 10 (2025)](https://owasp.org/www-project-non-human-identities-top-10/2025/top-10-2025/) - NHIs (service accounts, API keys, workload credentials) now outnumber humans 100:1; covers secret leakage, improper offboarding, over-privilege, and insecure cloud deployment.

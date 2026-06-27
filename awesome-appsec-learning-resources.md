@@ -119,7 +119,7 @@ It will include tools for SAST, SCA, OAST, Threat Modeling, Secure Code Review, 
 2. [CSSLP Certified Secure Software Lifecycle Professional](https://www.isc2.org/certifications/csslp)
 3. [ISSAP – Information Systems Security Architecture Professional](https://www.isc2.org/certifications/issap)
 4. CASE (Certified Application Security Engineer) Java or CASE .Net
-5. [CompTIA CASP+ (Application Security Professionals Plus)](https://www.comptia.org/certifications/comptia-advanced-security-practitioner)
+5. [CompTIA SecurityX (formerly CASP+)](https://www.comptia.org/certifications/securityx) - Rebranded Dec 2024; exam CAS-005.
 
 ## Blogs/Articles
 1. [Scaling your AppSec Program with semgrep](https://www.youtube.com/watch?v=rAwxFw25x3E)
@@ -147,3 +147,4 @@ It will include tools for SAST, SCA, OAST, Threat Modeling, Secure Code Review, 
 23. [tl;dr sec newsletter by Clint Gibler](https://tldrsec.com/)
 24. [We Hack Purple AppSec Podcast](https://community.wehackpurple.com/)
 25. [CWE Top 25 Most Dangerous Software Weaknesses (latest)](https://cwe.mitre.org/top25/)
+26. [OWASP Top 10 2025](https://owasp.org/Top10/2025/) - Updated Jan 2026; Security Misconfiguration at #2, Supply Chain Failures at #3 (new), SSRF merged into Broken Access Control.
