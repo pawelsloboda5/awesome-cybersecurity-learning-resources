@@ -73,6 +73,7 @@ We would keep adding relevant learning references when we find them informative 
 4. [ISC2 CC - Free entry-level cybersecurity certification](https://www.isc2.org/certifications/cc) - Exam voucher is free under the "One Million Certified in Cybersecurity" program in some regions.
 5. [Microsoft SC-900 Fundamentals](https://learn.microsoft.com/en-us/certifications/security-compliance-and-identity-fundamentals/)
 6. [Cisco Networking Academy - free cybersecurity courses](https://www.netacad.com/cybersecurity)
+7. [SecuSpark - Gamified practice for CompTIA Security+, CySA+, PenTest+, SecAI+](https://www.secuspark.com/) - 7,500+ human-written practice questions with mock exams and spaced-repetition flashcards. Free tier.
 
 ## Free/Paid Cybersecurity Labs
 1. [hackthebox](https://referral.hackthebox.com/mzAlUIY) - Recommended
